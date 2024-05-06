@@ -522,7 +522,7 @@ const Home = () => {
             <C.Bg><Bg /></C.Bg>
             <C.Container>
                 <C.Header>
-                    <C.Logo src="/images/logo.png" />
+                    <C.Logo src="/images/text--nightOwls.png" />
                     {wallet === null && (
                         <C.WalletConnect onClick={openWalletConnect}>Connect Wallet</C.WalletConnect>
                     )}
@@ -618,7 +618,7 @@ const Home = () => {
                                             {config.name}
                                         </C.TitleMobile>
                                         <C.Image>
-                                            <img src="/images/launch.png" alt="launch" />
+                                            <img src="/images/logo--nightOwls.jpg" alt="launch" />
                                         </C.Image>
                                         <C.MintInfo>
                                             <C.Price>
