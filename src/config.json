@@ -6,7 +6,7 @@
     "discord":"https://discord.com/oauth2/authorize?client_id=491769129318088714&scope=bot+applications.commands&permissions=275147508760",
     "rpc":"https://sei-rpc.polkachu.com",
     "network":"pacific-1", 
-    "collection_address":"sei1zz5t69lna6kxf9q99rlg7pacc7y4m38aszfxcasunw9x3wlm2wkskq7myx", 
+    "collection_address":"sei1e0jm80cysx0aexrvya48wuessc3w55smk0du2z48g3g3eq86vyvs7k5r7e", 
     "nft_name_type": "default",
     "groups":[
         {
